@@ -3,15 +3,15 @@
 
 ## screenshots
 ### Admin login Page
-![adminhomepage](https://github.com/user-attachments/assets/73b58080-f1a2-43fa-80df-836882f444d4)
+![adminhomepage](https://github.com/user-attachments/assets/9b348526-a93a-4472-969e-59b29105390a)
 ### Student Page
-![viewstudentpage](https://github.com/user-attachments/assets/78af51a5-385c-4647-9215-97ed213251e8)
+![viewstudentpage](https://github.com/user-attachments/assets/d073b134-1fd1-4b34-add7-fce5921cad4b)
 ### Available Book
-![availablebook](https://github.com/user-attachments/assets/ffba48f9-58eb-459c-a949-4f74835d2444)
+![availablebook](https://github.com/user-attachments/assets/bc5c3cdf-e1ba-4ee8-a5c6-0302ffb57f34)
 ### Contact Page
-![contactpage](https://github.com/user-attachments/assets/f981c7be-962b-4c81-8419-f518b2e62a74)
+![contactpage](https://github.com/user-attachments/assets/ba9839e3-0ff8-443a-81a0-063843bc7926)
 ### Message Sent Page
-![MessageSentPage](https://github.com/user-attachments/assets/0f5955ea-2790-414a-ac9b-e5b4065f6e0a)
+![MessageSentPage](https://github.com/user-attachments/assets/ba483ba3-8435-414f-b67e-2f1b80d51fe2)
 
 ---
 
