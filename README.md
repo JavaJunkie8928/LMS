@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Library Management System
 
 ## screenshots
